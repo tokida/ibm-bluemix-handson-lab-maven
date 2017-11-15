@@ -1,0 +1,9 @@
+applications:
+- name: myDeveloperWorksMaven-20171113
+  instances: 1
+  memory: 1024M
+  disk_quota: 1024M
+  routes:
+  - route: mydeveloperworksmaven-20171113.mybluemix.net
+  buildpack: java_buildpack
+  stack: cflinuxfs2
