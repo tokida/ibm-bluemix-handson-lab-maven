@@ -18,7 +18,7 @@ public class App {
     } 
  
     public static int veryComplicatedMethod() { 
-        return 42; 
+        return 40; 
     } 
 }
 
